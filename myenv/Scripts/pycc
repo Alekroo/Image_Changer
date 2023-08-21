@@ -1,0 +1,3 @@
+#!c:\users\aleksander\desktop\python_projects\new\instapy\myenv\scripts\python.exe
+from numba.pycc import main
+main()

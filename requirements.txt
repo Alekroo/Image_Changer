@@ -1,0 +1,7 @@
+importlib-metadata==6.7.0
+llvmlite==0.39.1
+numba==0.56.4
+numpy==1.21.6
+opencv-python==4.8.0.76
+typing_extensions==4.7.1
+zipp==3.15.0
